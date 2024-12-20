@@ -13,9 +13,7 @@
 </p>
 
 ------------------------------
-
-¿Qué es 1Panel?  
-1Panel es una nueva generación de panel de gestión de operaciones para servidores Linux.  
+1Panel es un panel de control moderno y de código abierto basado en la web para la gestión de servidores Linux.
 
 - **Gestión eficiente**: los usuarios pueden gestionar fácilmente servidores Linux a través de una interfaz web, como monitoreo de hosts, gestión de archivos, gestión de bases de datos, gestión de contenedores, entre otros;  
 - **Creación rápida de sitios web**: integración profunda con el software de creación de sitios web de código abierto WordPress y Halo, operaciones como vinculación de dominios y configuración de certificados SSL se realizan con un solo clic;  
